@@ -12,6 +12,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nekkuzuria.nekkuzuria&"  />
+</div>
+
+###
+
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -20,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Amanda from Yogyakarta<br><br>- 🔭 I’m currently as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Amanda from Yogyakarta<br><br>- 🔭 I’m currently as Software Engineering Student at UGM<br>- 📚 I'm currently learning everything about tech<br>- ⚡ In my free time I do my college assignments :)</p>
 
 ###
 
@@ -49,8 +55,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
@@ -69,5 +73,15 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nekkuzuria&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/nekkuzuria/nekkuzuria/output/snake.svg" alt="Snake animation" />
 
 ###

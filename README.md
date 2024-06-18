@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Amanda from Yogyakarta<br><br>- 🔭 I’m currently as Software Engineering Student at UGM<br>- 📚 I'm currently learning everything about tech<br>- ⚡ In my free time I do my college assignments :)</p>
+<p align="left">I'm Amanda from Yogyakarta<br><br>- 🔭 I’m currently as Software Engineering Student at UGM<br>- 📚 I'm currently learning everything about tech<br>- ⚡ In my free time  I enjoy playing video games (learning game development is on my wishlist)</p>
 
 ###
 

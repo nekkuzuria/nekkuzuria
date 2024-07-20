@@ -7,37 +7,37 @@
 <br/>
 <br/>
 
-👋 Hi, I'm **Amanda Farliana (アマンダ・ファリアナ)**
-🌏 Location: **Yogyakarta, Indonesia**
+👋 Hi, I'm **Amanda Farliana (アマンダ・ファリアナ)** </br>
+🌏 Location: **Yogyakarta, Indonesia** </br>
 
-**🧑‍💻 About Me:**
-I am currently studying Back End Development, Computer Vision, and Game Development. I enjoy exploring new technologies and can learn quickly.
+**🧑‍💻 About Me:** </br>
+I am currently studying Back End Development, Computer Vision, and Game Development. I enjoy exploring new technologies and can learn quickly. </br>
 
-**💻 Programming Languages:**
-JavaScript
-Python
-Java
-PHP
-C++
-Kotlin
-Golang
+**💻 Programming Languages:** </br>
+JavaScript </br>
+Python </br>
+Java </br>
+PHP </br>
+C++ </br>
+Kotlin </br>
+Golang </br>
 
-**🔧 Frameworks & Tools:**
-Laravel
-Java Spring Boot
-Node.js
-React
-MySQL
-Oracle Database
-OpenCV
-YOLO
-Android Studio
-Selenium
-Godot
+**🔧 Frameworks & Tools:** </br>
+Laravel </br>
+Java Spring Boot </br>
+Node.js </br>
+React </br>
+MySQL </br>
+Oracle Database </br>
+OpenCV </br>
+YOLO </br>
+Android Studio </br>
+Selenium </br>
+Godot </br>
 
-**🌐 Languages:**
-Bahasa Indonesia
-English
+**🌐 Languages:** </br>
+Bahasa Indonesia </br>
+English </br>
 
 <br/>
 <br/>

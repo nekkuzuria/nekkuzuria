@@ -14,30 +14,13 @@
 I am currently studying Back End Development, Computer Vision, and Game Development. I enjoy exploring new technologies and can learn quickly. </br>
 
 **💻 Programming Languages:** </br>
-JavaScript </br>
-Python </br>
-Java </br>
-PHP </br>
-C++ </br>
-Kotlin </br>
-Golang </br>
+JavaScript, Python, Java, PHP, C++, Kotlin, Golang 
 
 **🔧 Frameworks & Tools:** </br>
-Laravel </br>
-Java Spring Boot </br>
-Node.js </br>
-React </br>
-MySQL </br>
-Oracle Database </br>
-OpenCV </br>
-YOLO </br>
-Android Studio </br>
-Selenium </br>
-Godot </br>
+Laravel, Java Spring Boot, Node.js, React, MySQL, Oracle Database, OpenCV, YOLO, Android Studio, Selenium, Godot </br>
 
 **🌐 Languages:** </br>
-Bahasa Indonesia </br>
-English </br>
+Bahasa Indonesia, English </br>
 
 <br/>
 <br/>

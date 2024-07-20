@@ -35,7 +35,7 @@ Bahasa Indonesia, English </br>
 - 📙 [***nekkuzuria/animeow***](https://github.com/nekkuzuria/UASPPW1_22-499652-SV-21353_Animeow) <br/>
   A simple website for streaming anime
 - 📒 [***nekkuzuria/student-frontend***](https://github.com/nekkuzuria/student-frontend) <br/>
-  A simple CRUD college student management that integrated with API in (https://github.com/nekkuzuria/student-api)
+  A simple CRUD college student management that integrated with API in [***nekkuzuria/student-api***](https://github.com/nekkuzuria/student-api)
   
 <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
 <br/>

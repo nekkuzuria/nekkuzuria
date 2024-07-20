@@ -7,40 +7,57 @@
 <br/>
 <br/>
 
-- Name **Reidho Satria** / **レイドー・サトリア**
+👋 Hi, I'm **Amanda Farliana (アマンダ・ファリアナ)**
+🌏 Location: **Yogyakarta, Indonesia**
 
-- Live in **South Sumatra, Indonesia**
+**🧑‍💻 About Me:**
+I am currently studying Back End Development, Computer Vision, and Game Development. I enjoy exploring new technologies and can learn quickly.
 
-- Studying [**Junior Back-End Developer**](https://dicoding.com)
+**💻 Programming Languages:**
+JavaScript
+Python
+Java
+PHP
+C++
+Kotlin
+Golang
 
-- Familiar with **GNU/Linux** and **FreeBSD**
+**🔧 Frameworks & Tools:**
+Laravel
+Java Spring Boot
+Node.js
+React
+MySQL
+Oracle Database
+OpenCV
+YOLO
+Android Studio
+Selenium
+Godot
 
-- Good with **JavaScript** , **TypeScript** , **PHP** , **Go** , and **Python**
+**🌐 Languages:**
+Bahasa Indonesia
+English
 
-- Have high experience with **Photoshop** and **CorelDRAW**
-  
-- Understand 日本語, Bahasa Indonesia, Bahasa Melayu, and English
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
 <br/>
 <br/>
 <img src="./img/Repo-elaina.png" width="488" />
 <br/>
 <br/>
   
-- 📗 [***elliottophellia/aizawa***](https://github.com/elliottophellia/aizawa) <br/>
-  Simple command-line webshell that executes commands via the HTTP request in order to avoid any WAF or IDS while bypassing disable_function.
-- 📘 [***elliottophellia/yakumo***](https://github.com/elliottophellia/yakumo) <br/>
-  FREE CHECKED PROXY LIST UPDATED EVERY 10 MINUTES - HTTP(S), SOCKS4, SOCKS5 (WITH GLOBAL/COUNTRY SPECIFIC RESULT).
-- 📙 [***elliottophellia/kyoko***](https://github.com/elliottophellia/kyoko) <br/>
-  KyokoAPI - My collection of free API you can use on your project.
-- 📒 [***elliottophellia/kaga***](https://github.com/elliottophellia/kaga) <br/>
-  Kaga is a Reverse IP Lookup tool written in PowerShell and BourneShell to make it easy to use in any environment..
+- 📗 [***nekkuzuria/bot-wa-sticker***](https://github.com/nekkuzuria/bot-wa-sticker) <br/>
+  WhatsApp bot for creating custom stickers from images 
+- 📘 [***nekkuzuria/traingo***](https://github.com/nekkuzuria/UTS_ANDROID_TRAIN-GO) <br/>
+  An app for train ticket booking, integrated with Firebase
+- 📙 [***nekkuzuria/animeow***](https://github.com/nekkuzuria/UASPPW1_22-499652-SV-21353_Animeow) <br/>
+  A simple website for streaming anime
+- 📒 [***nekkuzuria/student-frontend***](https://github.com/nekkuzuria/student-frontend) <br/>
+  A simple CRUD college student management that integrated with API in (https://github.com/nekkuzuria/student-api)
   
 <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
-<sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
+<sub>“It's hard to fight alone isn't it? It's scary right? I know that too” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
 <br/><br/>
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
 <br/><br/>

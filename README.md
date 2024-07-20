@@ -1,4 +1,15 @@
 <img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/amanda-farliana-setyasari" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 <div>
 <img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
 <br/>

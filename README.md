@@ -39,8 +39,8 @@ Bahasa Indonesia, English </br>
   
 - 📗 [***nekkuzuria/bot-wa-sticker***](https://github.com/nekkuzuria/bot-wa-sticker) <br/>
   WhatsApp bot for creating custom stickers from images 
-- 📘 [***nekkuzuria/traingo***](https://github.com/nekkuzuria/UTS_ANDROID_TRAIN-GO) <br/>
-  An app for train ticket booking, integrated with Firebase
+- 📘 [***nekkuzuria/let-me-cook***](https://github.com/nekkuzuria/let-me-cook) <br/>
+  An website for find recipes based on the ingredients you have
 - 📙 [***nekkuzuria/animeow***](https://github.com/nekkuzuria/UASPPW1_22-499652-SV-21353_Animeow) <br/>
   A simple website for streaming anime
 - 📒 [***nekkuzuria/student-frontend***](https://github.com/nekkuzuria/student-frontend) <br/>
@@ -49,7 +49,7 @@ Bahasa Indonesia, English </br>
 <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
 <br/>
 <img src="./img/banner-elainaa.png" width="500" /><br/>
-<sub>“It's hard to fight alone isn't it? It's scary right? I know that too” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub>"So please allow me to go on a journey" – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/><br/>
 
 <h3 align="left">🔥   My Stats :</h3>

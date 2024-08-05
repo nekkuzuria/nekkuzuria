@@ -40,7 +40,7 @@ Bahasa Indonesia, English </br>
 - 📗 [***nekkuzuria/bot-wa-sticker***](https://github.com/nekkuzuria/bot-wa-sticker) <br/>
   WhatsApp bot for creating custom stickers from images 
 - 📘 [***nekkuzuria/let-me-cook***](https://github.com/nekkuzuria/let-me-cook) <br/>
-  An website for find recipes based on the ingredients you have
+  A website for find recipes based on the ingredients you have
 - 📙 [***nekkuzuria/animeow***](https://github.com/nekkuzuria/UASPPW1_22-499652-SV-21353_Animeow) <br/>
   A simple website for streaming anime
 - 📒 [***nekkuzuria/student-frontend***](https://github.com/nekkuzuria/student-frontend) <br/>

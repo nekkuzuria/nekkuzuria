@@ -20,7 +20,7 @@ I am really excited to learn deeper about Backend Development:D </br>
 
 **💻 Programming Languages:** </br>
 Java is my favoriteeee!!
-but i can Typescript, Python, C++ as well
+but i use Typescript, Python, C++ as well
 
 **🔧 Frameworks & Tools:** </br>
 Angular, Java Spring Boot, Node.js, MySQL, PostgreSQL, OpenCV, YOLO, Intellij IDEA </br>

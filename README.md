@@ -16,13 +16,14 @@
 🌏 Location: **Yogyakarta, Indonesia** </br>
 
 **🧑‍💻 About Me:** </br>
-I am currently studying Back End Development, Computer Vision, and Game Development. I enjoy exploring new technologies and can learn quickly. </br>
+I am currently studying Software Engineering especialy Backend Development. I enjoy exploring new technologies and can learn quickly. </br>
 
 **💻 Programming Languages:** </br>
-JavaScript, Python, Java, PHP, C++, Kotlin, Golang 
+Java is my favoriteeee!!
+but i can Typescript, Python, C++ as well
 
 **🔧 Frameworks & Tools:** </br>
-Laravel, Java Spring Boot, Node.js, React, MySQL, Oracle Database, OpenCV, YOLO, Android Studio, Selenium, Godot </br>
+Angular, Java Spring Boot, Node.js, MySQL, PostgreSQL, OpenCV, YOLO, Intellij IDEA </br>
 
 **🌐 Languages:** </br>
 Bahasa Indonesia, English </br>

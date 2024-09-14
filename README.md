@@ -16,7 +16,7 @@
 🌏 Location: **Yogyakarta, Indonesia** </br>
 
 **🧑‍💻 About Me:** </br>
-I am currently studying Software Engineering especially Backend Development. I am exited to exploring new technologies and can learn quickly. </br>
+I am currently studying Software Engineering especially Backend Development. I am excited to exploring new technologies and can learn quickly. </br>
 
 **💻 Programming Languages:** </br>
 Java is my favoriteeee!!

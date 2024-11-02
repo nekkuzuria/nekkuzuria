@@ -1,7 +1,5 @@
 <img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
 
-[![An image of @nekkuzuria's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nekkuzuria)](https://holopin.io/@nekkuzuria)
-
 ###
 
 

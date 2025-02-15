@@ -19,8 +19,7 @@
 I am really excited to learn deeper about Backend Development:D </br>
 
 **💻 Programming Languages:** </br>
-Java is my favoriteeee!!
-but i use Typescript, Python, C++ as well
+Java is my favorite, but I'm cool with using any language!
 
 **🔧 Frameworks & Tools:** </br>
 Angular, Java Spring Boot, Node.js, MySQL, PostgreSQL, OpenCV, YOLO, Intellij IDEA </br>
@@ -49,12 +48,13 @@ Bahasa Indonesia, English </br>
 <sub>"So please allow me to go on a journey" – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/><br/>
 
-<h3 align="left">🔥   My Stats :</h3>
+<!-- <h3 align="left">🔥   My Stats :</h3> -->
 
-###
-<div align="center">
+<!--###
+ <div align="center">
   <img src="https://streak-stats.demolab.com?user=nekkuzuria&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+</div> 
+-->
 
 ###
 <img src="https://raw.githubusercontent.com/nekkuzuria/nekkuzuria/output/snake.svg" alt="Snake animation" />

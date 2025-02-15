@@ -16,7 +16,7 @@
 🌏 Location: **Yogyakarta, Indonesia** </br>
 
 **🧑‍💻 About Me:** </br>
-I am really excited to learn deeper about Backend Development:D </br>
+On a journey to mastering Backend Development! 😎⚡ </br>
 
 **💻 Programming Languages:** </br>
 Java is my favorite, but I'm cool with using any language!

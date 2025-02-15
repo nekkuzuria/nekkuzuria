@@ -22,7 +22,7 @@ I am really excited to learn deeper about Backend Development:D </br>
 Java is my favorite, but I'm cool with using any language!
 
 **🔧 Frameworks & Tools:** </br>
-Angular, Java Spring Boot, Node.js, MySQL, PostgreSQL, OpenCV, YOLO, Intellij IDEA </br>
+Angular, Java Spring Boot, MySQL, PostgreSQL, Redis, Intellij IDEA </br>
 
 **🌐 Languages:** </br>
 Bahasa Indonesia, English </br>
